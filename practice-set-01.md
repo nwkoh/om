@@ -20,3 +20,23 @@ below with each step carried out in the sequence shown.
 5. What is the process cycle time for the overall system?
 
 6. If one of their stores operates 10 hours a day 22 days a month, what is the monthly capacity of the process? Assume that there is sufficient demand.
+
+## Very-freshsubs
+Very-freshsubs is a startup and aiming to compete in the same space as Freshsubs. While thinking of their process design, Abu Hassan, Very-freshsubs operations
+guru, proposed to perform a waiting time analysis on Freshsubs as a benchmark. The details of his study is shown in the table below. Assume that there is only
+one cashier that does the billing, i.e., m = 1.
+
+| | Mean (in minutes) | Standard deviation (in minutes) |
+|-----|-----|-----|
+| Inter-arrival time | 2.44 | 1.98 |
+| Process time | 0.99 | 0.02 |
+
+1. Compute CVa.
+
+2. Compute CVp.
+
+3. What percentage of the time is the cashier busy?
+
+4. What is the average time spent waiting in line to get to the cashier?
+
+5. What is the average time that a customer spends in the system?
