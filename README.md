@@ -14,3 +14,8 @@ information:
 After I verify that you are a legitimate instructor, I will send you information about how to access the answer keys.
 
 To err is human. If any errors are found or if you have any suggestions about possible improvements, please create an issue right here in Github. 
+
+## Converting to pdf
+If you would like a downloadable pdf of the practice questions, simply replace github.com with gitprint.com at the markdown of your choice.
+
+For more details, please refer to [https://gitprint.com/](https://gitprint.com/)
