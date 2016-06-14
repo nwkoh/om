@@ -15,6 +15,8 @@ below with each step carried out in the sequence shown.
 
 3. Which process is the bottleneck?
 
-4. What is the process cycle time for the overall system?
+4. What is the utilisation for each process?
 
-5. If one of their stores operates 10 hours a day 22 days a month, what is the monthly capacity of the process? Assume that there is sufficient demand.
+5. What is the process cycle time for the overall system?
+
+6. If one of their stores operates 10 hours a day 22 days a month, what is the monthly capacity of the process? Assume that there is sufficient demand.
