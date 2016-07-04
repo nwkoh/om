@@ -40,3 +40,7 @@ one cashier that does the billing, i.e., m = 1.
 4. What is the average time spent waiting in line to get to the cashier (in seconds)?
 
 5. What is the average time that a customer spends in the system (in seconds)?
+
+## GloRoofs
+GloRoofs specialises in roofing products such as roof tiles and trusses. They have 11 retail outlets across Indonesia with a factory located just outside
+Jakarta. 
