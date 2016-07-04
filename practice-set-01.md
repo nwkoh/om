@@ -9,17 +9,17 @@ below with each step carried out in the sequence shown.
 | Veggies + Sauces | 27.65 |
 | Billing | 30 |
 
-1. What is the capacity of each process in sandwiches per hour?
+1. What is the capacity of each process (in sandwiches per hour)?
 
-2. What is the process capacity?
+2. What is the process capacity (in sandwiches per hour)?
 
 3. Which process is the bottleneck?
 
 4. What is the utilisation for each process?
 
-5. What is the process cycle time for the overall system?
+5. What is the process cycle time for the overall system (in seconds)?
 
-6. If one of their stores operates 10 hours a day 22 days a month, what is the monthly capacity of the process? Assume that there is sufficient demand.
+6. If one of their stores operate 10 hours a day 22 days a month, what is the monthly capacity of the process (in sandwiches per month)? Assume that there is sufficient demand.
 
 ## Very-freshsubs
 Very-freshsubs is a startup and aiming to compete in the same space as Freshsubs. While thinking of their process design, Abu Hassan, Very-freshsubs operations
@@ -37,6 +37,6 @@ one cashier that does the billing, i.e., m = 1.
 
 3. What percentage of the time is the cashier busy?
 
-4. What is the average time spent waiting in line to get to the cashier?
+4. What is the average time spent waiting in line to get to the cashier (in seconds)?
 
-5. What is the average time that a customer spends in the system?
+5. What is the average time that a customer spends in the system (in seconds)?
