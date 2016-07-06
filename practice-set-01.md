@@ -43,4 +43,17 @@ one cashier that does the billing, i.e., m = 1.
 
 ## GloRoofs
 GloRoofs specialises in roofing products such as roof tiles and trusses. They have 11 retail outlets across Indonesia with a factory located just outside
-Jakarta. 
+Jakarta. To remain competitive, GloRoofs focussed on obtaining access to high quality raw materials and an inexpensive labour supply while leveraging on their
+prior expertise. Their operations are also labour intensive and GloRoofs realise that some level of streamlining needs to be carried out to sustain their cost
+advantage. The following information was extracted from their accounting ledger:
+
+| | 2015 |
+|-----|-----|
+| Inventory | $1,217 |
+| COGS | $442,105 |
+
+1. What is the inventory turnover ratio?
+
+2. If the profit margin is 50%, what is the total annual sales?
+
+3. How many days, on average, did a product stay in inventory in 2015?
