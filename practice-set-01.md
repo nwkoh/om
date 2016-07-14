@@ -71,6 +71,16 @@ production line consists of 3 steps:
 
 1. What is the capacity of each activity?
 
+2. What is the process capacity?
 
+Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
+3. What is total productive time for sewing in minutes?
 
+4. What is the idle time per worker for sewing in minutes?
 
+5. What is total productive time for handcraft and packing in minutes?
+
+6. What is the total idle time for handcraft and packing in minutes?
+
+7. How long will it take for the process to complete 2000 units? The flow rate is computed to be 1.63 units per minute. Assume that parts are discrete and the
+system starts empty.
