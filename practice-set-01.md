@@ -61,7 +61,7 @@ advantage. The following information was extracted from their accounting ledger:
 ## Arts and Craft Co. Ltd (A&C)
 A&C manufacturers soft toys for the mass market. With their multi-skilled labour force, A&C is able to perform different kinds of activities.
 They have a basic production line and feel that their processes could be improved as it has been affecting the overall utilisation during peak demands. The A&C
-production line consists of 3 steps:
+production line consists of 3 steps. Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
 
 | Activity | Number of resources | Processing time (min/unit) |
 |-----|-----|-----|
@@ -72,8 +72,6 @@ production line consists of 3 steps:
 1. What is the capacity of each activity?
 
 2. What is the process capacity?
-
-Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
 
 3. What is total productive time for sewing in minutes?
 
