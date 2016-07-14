@@ -74,6 +74,7 @@ production line consists of 3 steps:
 2. What is the process capacity?
 
 Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
+
 3. What is total productive time for sewing in minutes?
 
 4. What is the idle time per worker for sewing in minutes?
