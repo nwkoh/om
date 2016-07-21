@@ -83,3 +83,32 @@ production line consists of 3 steps. Assume that the working hours are 8 hours p
 
 7. How long will it take for the process to complete 2000 units? The flow rate is computed to be 1.63 units per minute. Assume that parts are discrete and the
 system starts empty.
+
+## R-Rider
+The R-Rider is a fitness bike that acts as a green power station - it generates power while in use. There are five R-Rider fitness bikes in Hungkuang Technology
+University and the students generate about 150 kWh of energy per month through the pedalling. Generated energy is fed into the power generation system which in turn
+provides electricity for the school. The technology enabling this is a regenerative inverter drive.
+
+The activities required to assemble an inverter is shown below. Each activity requires one worker.
+
+| | Activity | Processing time (min/unit) |
+|-----|-----|-----|
+| 1 | Assembly 1 | 4 |
+| 2 | Assembly 2 | 3 |
+| 3 | Assembly 3 | 7 |
+| 4 | Assembly 4 | 6 |
+| 5 | Calibration 1 | 3 |
+| 6 | Calibration 2 | 4 |
+| 7 | Packaging | 1.5 |
+
+1. What is the utilisation for the remaining processes?
+
+2. Which activity is the bottleneck?
+
+3. How many units can be produced daily? Assume that there are 7 working hours in a day.
+
+4. What is the utilisation of each process if daily demand is for 50 inverters?
+
+5. What is the flow rate?
+
+6. What is the idle time for each worker in minutes per unit?
