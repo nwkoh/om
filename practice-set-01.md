@@ -3,7 +3,7 @@ Freshsubs is a fast food franchise that sells sandwiches and salads. It is the t
 below with each step carried out in the sequence shown.
 
 | Activity | Processing time (in seconds) |
-|----------|------------------------------|
+|----------|:------------------------------:|
 | Placing the order | 34.57 |
 | Meats + Cheese + Heating | 21.58 |
 | Veggies + Sauces | 27.65 |
@@ -27,7 +27,7 @@ guru, proposed to perform a waiting time analysis on Freshsubs as a benchmark. T
 one cashier that does the billing, i.e., m = 1.
 
 | | Mean (in minutes) | Standard deviation (in minutes) |
-|-----|-----|-----|
+|-----|:-----:|:-----:|
 | Inter-arrival time | 2.44 | 1.98 |
 | Process time | 0.99 | 0.02 |
 
@@ -48,7 +48,7 @@ prior expertise. Their operations are also labour intensive and GloRoofs realise
 advantage. The following information was extracted from their accounting ledger:
 
 | | 2015 |
-|-----|-----|
+|-----|-----:|
 | Inventory | $1,217 |
 | COGS | $442,105 |
 
@@ -64,7 +64,7 @@ They have a basic production line and feel that their processes could be improve
 production line consists of 3 steps. Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
 
 | Activity | Number of resources | Processing time (min/unit) |
-|-----|-----|-----|
+|-----|-----|:-----:|
 | Cutting | 6 cutting machines | 0.36 |
 | Sewing | 100 workers | 50 |
 | Handcraft & Packing | 50 workers | 10 |
@@ -92,7 +92,7 @@ provides electricity for the school. The technology enabling this is a regenerat
 The activities required to assemble an inverter is shown below. Each activity requires one worker.
 
 | | Activity | Processing time (min/unit) |
-|-----|-----|-----|
+|-----|-----|:-----:|
 | 1 | Assembly 1 | 4 |
 | 2 | Assembly 2 | 3 |
 | 3 | Assembly 3 | 7 |
@@ -101,7 +101,7 @@ The activities required to assemble an inverter is shown below. Each activity re
 | 6 | Calibration 2 | 4 |
 | 7 | Packaging | 1.5 |
 
-1. What is the utilisation for the remaining processes?
+1. What is the utilisation for each process?
 
 2. Which activity is the bottleneck?
 
