@@ -18,7 +18,7 @@ is process-constrained.
 
 4. What is the utilisation for each process?
 
-5. What is the process cycle time for the overall system (in seconds)?
+5. What is the direct labour content (in seconds)?
 
 6. If one of their stores operate 10 hours a day 22 days a month, what is the monthly capacity of the process (in sandwiches per month)? Assume that there is sufficient demand.
 
