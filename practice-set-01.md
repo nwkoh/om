@@ -1,6 +1,7 @@
 ## Freshsubs
 Freshsubs is a fast food franchise that sells sandwiches and salads. It is the third largest single-brand restaurant chain. The process of making a freshsub is displayed 
-below with each step carried out in the sequence shown.
+below with each step carried out in the sequence shown. Assume that the system
+is process-constrained.
 
 | Activity | Processing time (in seconds) |
 |----------|:------------------------------:|
