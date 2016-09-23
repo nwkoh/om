@@ -55,7 +55,7 @@ advantage. The following information was extracted from their accounting ledger:
 
 1. What is the inventory turnover ratio?
 
-2. If the profit margin is 50%, what is the total annual sales?
+2. If the mark-up on cost is 50%, what is the total annual sales?
 
 3. How many days, on average, did a product stay in inventory in 2015?
 
