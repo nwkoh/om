@@ -26,3 +26,14 @@ The activities required to assemble an inverter is shown below. Each activity re
 5. What is the flow rate?
 
 6. What is the idle time for each worker in minutes per unit?
+
+## Gerry and Sonya
+Gerry and Sonya each forecast the monthly sales of their main product for a year
+in advance. At the end of the year, they compared their results as shown below.
+Who produced the better forecast?
+
+| Month | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|-----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Demand | 40 | 44 | 52 | 38 | 28 | 30 | 27 | 38 | 54 | 45 | 51 | 56 |
+| Gerry | 34 | 46 | 48 | 44 | 34 | 32 | 30 | 32 | 36 | 38 | 41 | 43 |
+| Sonya | 30 | 40 | 44 | 48 | 38 | 36 | 42 | 40 | 42 | 44 | 44 | 44 |
