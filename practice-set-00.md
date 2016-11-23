@@ -37,3 +37,6 @@ Who produced the better forecast?
 | Demand | 40 | 44 | 52 | 38 | 28 | 30 | 27 | 38 | 54 | 45 | 51 | 56 |
 | Gerry | 34 | 46 | 48 | 44 | 34 | 32 | 30 | 32 | 36 | 38 | 41 | 43 |
 | Sonya | 30 | 40 | 44 | 48 | 38 | 36 | 42 | 40 | 42 | 44 | 44 | 44 |
+
+Solution: The forecast produced by Gerry has a mean squared error that is smaller. This
+confirms that his forecasts are, on average, better. 
