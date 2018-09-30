@@ -64,7 +64,7 @@ A&C manufacturers soft toys for the mass market. With their multi-skilled labour
 They have a basic production line and feel that their processes could be improved as it has been affecting the overall utilisation during peak demands. The A&C
 production line consists of 3 steps. Assume that the working hours are 8 hours per day. For each hour of work, each worker is allowed a 5 minute break.
 
-| Activity | Number of resources | Processing time (min/unit) |
+| Activity | Number of resources | Processing time (min/unit) per resource |
 |-----|-----|:-----:|
 | Cutting | 6 cutting machines | 0.36 |
 | Sewing | 100 workers | 50 |
