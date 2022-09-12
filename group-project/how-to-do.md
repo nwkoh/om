@@ -20,7 +20,13 @@ would have something to improve on later.
 
 ### Things to note
 
-1. Resolving the bottleneck is the easiest initiative. If it is easy, everyone will
+1. Finding the exact process for your selected product will be challenging. A
+   proxy process will suffice.
+
+2. Finding the exact machines for your selected process will be challenging. A
+   proxy machine will suffice.
+
+3. Resolving the bottleneck is the easiest initiative. If it is easy, everyone will
 be doing it too.
 
-2. This project is fairly difficult. No pain, no gain.
+4. This project is fairly difficult. No pain, no gain.
