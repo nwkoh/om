@@ -1,6 +1,6 @@
 # What to do for the group project
 
-Objective: To propose two initiatives that will streamline a manufacturing process
+Objective: To propose one initiative that will streamline a manufacturing process
 
 Please use the Operations Management (OM) knowledge that you have gained to strengthen the discussion.
 
@@ -18,19 +18,13 @@ Please use the Operations Management (OM) knowledge that you have gained to stre
 
     - Produce the As-Is value stream map and identify opportunities for improvement
 
-4. Propose two initiatives to improve that process and quantify it
+4. Propose one initiative to improve that process and quantify it
 
     - To improve throughput, reduce cost or any other useful metric
 
 5. Map out the To-Be process
 
     - Produce the To-Be value stream map after implementing the two initiatives
-
-6. Include an impact-effort matrix
-
-    - To help with prioritisation of the initiatives
-
-    - We aim for high impact, low effort initiatives
 
 ### Assumptions
 
