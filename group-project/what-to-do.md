@@ -24,7 +24,7 @@ Please use the Operations Management (OM) knowledge that you have gained to stre
 
 5. Map out the To-Be process
 
-    - Produce the To-Be value stream map after implementing the two initiatives
+    - Produce the To-Be value stream map after implementing one initiative
 
 ### Assumptions
 
