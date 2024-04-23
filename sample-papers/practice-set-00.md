@@ -30,7 +30,7 @@ The activities required to assemble an inverter is shown below. Each activity re
 ## Gerry and Sonya
 Gerry and Sonya each forecast the monthly sales of their main product for a year
 in advance. At the end of the year, they compared their results as shown below.
-Who produced the better forecast?
+By comparing the mean squared error, who produced the better forecast?
 
 | Month | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |-----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
